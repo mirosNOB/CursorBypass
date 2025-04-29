@@ -1,0 +1,16 @@
+{
+  "name": "machine-id-changer",
+  "version": "1.0.0",
+  "description": "Утилита для изменения machine-id и файлов телеметрии",
+  "main": "machine-id-changer.ts",
+  "scripts": {
+    "start": "ts-node machine-id-changer.ts"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.0"
+  }
+} 
