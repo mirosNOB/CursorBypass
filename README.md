@@ -1,4 +1,4 @@
-# 🔄 Machine ID Changer
+# 🔄 Machine ID Changer (49.x work)
 
 ## 📋 Description
 This utility changes system identifiers for Cursor bypass:
